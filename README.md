@@ -30,5 +30,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-<img src="https://img.shields.io/badge/Made%20With-HTML-brightgreen/relativePath">
-<img src="https://img.shields.io/badge/Made%20With-CSS-yellow/relativePath">
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
