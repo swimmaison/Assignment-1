@@ -52,6 +52,6 @@ Touching up the HTML & CSS further to improve performance.
 ## License: 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-##Questions: 
+## Questions: 
 
 For any additional questions, can be reached through GitHub: Hamza Tanveer (https://github.com/swimmaison)
