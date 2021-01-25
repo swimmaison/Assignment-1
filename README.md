@@ -43,10 +43,15 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-##Technologies Used: 
+## Technologies Used: 
 <img src="https://img.shields.io/badge/Made%20With-HTML-brightgreen/relativePath"> <img src="https://img.shields.io/badge/Made%20With-CSS-yellow/relativePath">
 
 ## Future Development:
 Touching up the HTML & CSS further to improve performance. 
 
+## License: 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+##Questions: 
+
+For any additional questions, can be reached through GitHub: Hamza Tanveer (https://github.com/swimmaison)
